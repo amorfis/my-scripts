@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# Run Sublime Exitor instance without detaching from the console.
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl -w $@
